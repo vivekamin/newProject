@@ -21,13 +21,14 @@
             <div class="row">
                 <div class="col-md-12"> <center><a href="#" class="button hvr-icon-hang" ng-click="getItems()">View All Avatar</a></center></div>
            </div>
-            <div class="row">
+            <div class="row fixed">
                 <div class="col-md-6" >
                     <p class="names hvr-underline-from-center" ng-repeat="result in results" ng-click="selectedItem(result)" ng-class="{selectedName : result == viewData}">{{result.name}}</p>
                 </div>
                 <div class="col-md-6">
-                    <div class="row">{{viewData.name}}</div>
-                    <div class=" row"><center><img class="img" ng-src="{{viewData.avatar}}"></center></div>
+                    
+                    <div class="row" style="background-image:{{viewData.avatar}}"><center><img class="img" ng-src="{{viewData.avatar}}"></center></div>
+                    <div class="row"><center><p class="nameDec">{{viewData.name}}</p></center></div>
                 </div>
             </div>
         
