@@ -1,0 +1,78 @@
+{
+  "people": [
+    {
+      "card": {
+        "name": "Eugenia Botsford",
+        "username": "Giovanny.Harris",
+        "email": "Charley.Von14@yahoo.com",
+        "address": {
+          "streetA": "Ambrose Mission",
+          "streetB": "9457 Litzy Unions",
+          "streetC": "917 Landen Ports Apt. 807",
+          "streetD": "Apt. 644",
+          "city": "East Adrienne",
+          "state": "Utah",
+          "country": "Bolivia",
+          "zipcode": "43296",
+          "geo": {
+            "lat": "27.2004",
+            "lng": "66.6417"
+          }
+        },
+        "phone": "1-256-297-8046",
+        "website": "adam.net",
+        "company": {
+          "name": "Rempel and Sons",
+          "catchPhrase": "Mandatory optimizing help-desk",
+          "bs": "web-enabled productize content"
+        },
+        "posts": [
+          {
+            "words": "nesciunt corporis eos",
+            "sentence": "Exercitationem et illo.",
+            "sentences": "Dolorem sint et ea aut iure laboriosam voluptas. Molestiae et quo.",
+            "paragraph": "Aperiam officiis commodi sequi qui corrupti sequi dolores. Totam possimus minima. Nam numquam earum aut commodi aspernatur molestias eveniet fugit fugit."
+          },
+          {
+            "words": "commodi odit minus",
+            "sentence": "Incidunt aut aperiam voluptate fugiat et ipsum ratione eligendi officiis.",
+            "sentences": "Sit voluptate dolore ipsa. Sed cupiditate est aut vitae. Illum ipsum quaerat quas eligendi vitae dolor numquam. Sint ut labore dicta dolor aut aperiam repellat corrupti. Est suscipit dolor et vitae veritatis. Consequatur sed minima.",
+            "paragraph": "Aut beatae rem. Nemo qui at est ut nisi cum saepe. Necessitatibus at a fuga omnis voluptatem voluptas omnis. Sed perferendis magnam ducimus facilis. Cumque porro est laboriosam dignissimos at quo."
+          },
+          {
+            "words": "architecto enim quas",
+            "sentence": "Perferendis praesentium nihil voluptatibus et aliquam sed.",
+            "sentences": "Nostrum architecto eveniet quo rem odit et sit fugiat. Sint eos ut doloribus aliquid eum vero eos. Qui blanditiis perferendis. Officiis corrupti sit sed ratione adipisci est aut.",
+            "paragraph": "Ut neque in placeat. Perferendis magni quas ut sunt repudiandae. Molestiae alias placeat sit sint."
+          }
+        ],
+        "accountHistory": [
+          {
+            "amount": "186.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dickinson Inc",
+            "name": "Personal Loan Account 4232",
+            "type": "payment",
+            "account": "80088188"
+          },
+          {
+            "amount": "321.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Haag - Hartmann",
+            "name": "Home Loan Account 4709",
+            "type": "invoice",
+            "account": "25381894"
+          },
+          {
+            "amount": "691.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Upton, Lindgren and Denesik",
+            "name": "Credit Card Account 7684",
+            "type": "deposit",
+            "account": "79315237"
+          }
+        ]
+      }
+    }
+  ]
+}

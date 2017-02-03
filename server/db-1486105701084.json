@@ -1,0 +1,78 @@
+{
+  "people": [
+    {
+      "card": {
+        "name": "Kirti Shah",
+        "username": "Saroja.Bhat19",
+        "email": "Dharitri.Jha@hotmail.com",
+        "address": {
+          "streetA": "Anusuya Fort",
+          "streetB": "9030 Johar Field",
+          "streetC": "097 Patil Falls Apt. 599",
+          "streetD": "Suite 818",
+          "city": "East Sharda",
+          "state": "Uttar Pradesh",
+          "country": "Guyana",
+          "zipcode": "X8I 8R9",
+          "geo": {
+            "lat": "28.8842",
+            "lng": "12.0642"
+          }
+        },
+        "phone": "+91978-738-4895",
+        "website": "swapnil.co.in",
+        "company": {
+          "name": "Verma, Chopra and Varman",
+          "catchPhrase": "Horizontal eco-centric system engine",
+          "bs": "next-generation streamline e-commerce"
+        },
+        "posts": [
+          {
+            "words": "aut qui modi",
+            "sentence": "Vel animi natus.",
+            "sentences": "Rerum at quaerat ut voluptatem molestias. Rerum eveniet maxime. Dolorum modi qui ullam distinctio rerum in sit molestias sit. Ea quia laborum reprehenderit. Eos odio eos rerum qui.",
+            "paragraph": "Aut perferendis eum illum eligendi debitis reprehenderit. Sed voluptatem blanditiis. Voluptates deleniti rerum totam. Recusandae ex qui voluptatem ducimus unde culpa. Fuga illo maiores expedita ut voluptatem et et corrupti omnis."
+          },
+          {
+            "words": "omnis officia dolorum",
+            "sentence": "Hic est consequuntur ad quia tenetur provident.",
+            "sentences": "Aut iusto reiciendis consectetur ut odit. Ab cum dignissimos nostrum quasi quia aut fugiat aut porro. Quis omnis ullam neque nihil maiores porro provident aut. Dolore ut sint accusantium ipsam explicabo voluptatibus pariatur.",
+            "paragraph": "Id aut deserunt. Natus ut quod aperiam et iure nihil delectus est. Laudantium unde illo deserunt."
+          },
+          {
+            "words": "sed iusto numquam",
+            "sentence": "Labore voluptatem non consectetur expedita impedit et similique.",
+            "sentences": "Similique sint repellendus et. Odit et tenetur consequatur animi quia cupiditate quisquam sed omnis. Eum dolorem quod vel ut. Mollitia asperiores animi inventore quisquam qui iste. Exercitationem optio rerum est et quibusdam est. Ratione aperiam blanditiis iste perspiciatis aperiam odit similique non nemo.",
+            "paragraph": "Tempore sint facilis labore omnis. At et voluptates sed at ipsa harum quisquam aut. Libero vero et laborum voluptate quae. Totam est quia accusamus qui."
+          }
+        ],
+        "accountHistory": [
+          {
+            "amount": "763.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Arora, Malik and Tagore",
+            "name": "Investment Account 2727",
+            "type": "payment",
+            "account": "49756903"
+          },
+          {
+            "amount": "647.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Chattopadhyay, Bhat and Asan",
+            "name": "Credit Card Account 9996",
+            "type": "withdrawal",
+            "account": "05952040"
+          },
+          {
+            "amount": "400.00",
+            "date": "2012-02-01T18:30:00.000Z",
+            "business": "Dutta - Nambeesan",
+            "name": "Investment Account 7453",
+            "type": "deposit",
+            "account": "94107407"
+          }
+        ]
+      }
+    }
+  ]
+}
