@@ -1,0 +1,117 @@
+{
+  "quizzes": [
+    {
+      "count": 13,
+      "next": "http://www.yodaquiz.com/polls/quizzes/?limit=10&offset=10",
+      "previous": null,
+      "results": [
+        {
+          "url": "http://www.yodaquiz.com/polls/quizzes/17cc824a-a97c-4372-9bcc-edd341c2c6bf/",
+          "id": "17cc824a-a97c-4372-9bcc-edd341c2c6bf",
+          "title": "First Quiz",
+          "owner": "test111",
+          "description": "a test quiz",
+          "category_list": []
+        },
+        {
+          "url": "http://www.yodaquiz.com/polls/quizzes/bb7b4c8c-7ba8-40d0-b7f2-d69a1e172f8f/",
+          "id": "bb7b4c8c-7ba8-40d0-b7f2-d69a1e172f8f",
+          "title": "eight quiz",
+          "owner": "test111",
+          "description": "this is 8 quiz",
+          "category_list": [
+            {
+              "id": 1.2368559649151534e+38,
+              "category": "3"
+            },
+            {
+              "id": 2.3491490405795658e+38,
+              "category": "6"
+            },
+            {
+              "id": 2.4484571824600964e+38,
+              "category": "9"
+            },
+            {
+              "id": 2.8132025637985456e+37,
+              "category": "50"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quizList": [
+    {
+      "url": "http://www.yodaquiz.com/polls/quizzes/17cc824a-a97c-4372-9bcc-edd341c2c6bf/",
+      "id": "17cc824a-a97c-4372-9bcc-edd341c2c6bf",
+      "title": "First Quiz",
+      "owner": "test111",
+      "description": "a test quiz",
+      "category_list": []
+    },
+    {
+      "url": "http://www.yodaquiz.com/polls/quizzes/bb7b4c8c-7ba8-40d0-b7f2-d69a1e172f8f/",
+      "id": "bb7b4c8c-7ba8-40d0-b7f2-d69a1e172f8f",
+      "title": "eight quiz",
+      "owner": "test111",
+      "description": "this is 8 quiz",
+      "category_list": [
+        {
+          "id": 1.2368559649151534e+38,
+          "category": "3"
+        },
+        {
+          "id": 2.3491490405795658e+38,
+          "category": "6"
+        },
+        {
+          "id": 2.4484571824600964e+38,
+          "category": "9"
+        },
+        {
+          "id": 2.8132025637985456e+37,
+          "category": "50"
+        }
+      ]
+    }
+  ],
+  "sittingList": [
+    {
+      "url": "http://www.yodaquiz.com/polls/sv/4d443074-a442-4560-bf4d-ced0b3ea6a79/sitting/",
+      "id": "4d443074-a442-4560-bf4d-ced0b3ea6a79",
+      "user_id": 19,
+      "quiz_id": "17cc824a-a97c-4372-9bcc-edd341c2c6bf",
+      "question_list": ",",
+      "current_score": 1,
+      "complete": false
+    },
+    {
+      "url": "http://www.yodaquiz.com/polls/sv/9053e834-ec32-4238-a317-7b757f90cb14/sitting/",
+      "id": "9053e834-ec32-4238-a317-7b757f90cb14",
+      "user_id": 19,
+      "quiz_id": "bb7b4c8c-7ba8-40d0-b7f2-d69a1e172f8f",
+      "question_list": "ea99de29-cba2-4472-b8cd-6dfcc3243cc3, c4e951e6-2d1b-42d0-895f-035438a65f9b, 216fbe8e-68fa-4624-b2de-fc6977887631, 269e4f6a-ad96-4281-8114-2a5736d08775,",
+      "current_score": 0,
+      "complete": false
+    }
+  ],
+  "qaList": [
+    {
+      "url": "http://www.yodaquiz.com/polls/sv/8310e8a1-8a89-4ea5-8936-a57f0bdba514/answers/",
+      "id": "8310e8a1-8a89-4ea5-8936-a57f0bdba514",
+      "sitting": "9053e834-ec32-4238-a317-7b757f90cb14",
+      "question": "Iste tempora tenetur ipsam atque. Laborum ne",
+      "choice": [],
+      "guess": "c"
+    },
+    {
+      "url": "http://www.yodaquiz.com/polls/sv/8310e8a1-8a89-4ea5-8936-a57f0bdba514/answers/",
+      "id": "8310e8a1-8a89-4ea5-8936-a57f0bdba514",
+      "sitting": "9053e834-ec32-4238-a317-7b757f90cb15",
+      "question": "Who invented light bulb?",
+      "choice": [],
+      "guess": "b"
+    }
+  ]
+}

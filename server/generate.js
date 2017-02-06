@@ -14,7 +14,7 @@ module.exports = function () {
                 jobTitle : faker.name.jobTitle(),
                 jobArea : faker.name.jobArea(),
                 jobDesc : faker.name.jobDescriptor(),
-                address : faker.address.*()
+                
             }
         })
 

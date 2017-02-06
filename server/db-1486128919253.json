@@ -1,0 +1,44 @@
+{
+  "quizzes": [
+    {
+      "count": 13,
+      "next": "http://www.yodaquiz.com/polls/quizzes/?limit=10&offset=10",
+      "previous": null,
+      "results": [
+        {
+          "url": "http://www.yodaquiz.com/polls/quizzes/17cc824a-a97c-4372-9bcc-edd341c2c6bf/",
+          "id": "17cc824a-a97c-4372-9bcc-edd341c2c6bf",
+          "title": "First Quiz",
+          "owner": "test111",
+          "description": "a test quiz",
+          "category_list": []
+        },
+        {
+          "url": "http://www.yodaquiz.com/polls/quizzes/bb7b4c8c-7ba8-40d0-b7f2-d69a1e172f8f/",
+          "id": "bb7b4c8c-7ba8-40d0-b7f2-d69a1e172f8f",
+          "title": "eight quiz",
+          "owner": "test111",
+          "description": "this is 8 quiz",
+          "category_list": [
+            {
+              "id": 1.2368559649151534e+38,
+              "category": "3"
+            },
+            {
+              "id": 2.3491490405795658e+38,
+              "category": "6"
+            },
+            {
+              "id": 2.4484571824600964e+38,
+              "category": "9"
+            },
+            {
+              "id": 2.8132025637985456e+37,
+              "category": "50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
